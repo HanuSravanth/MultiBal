@@ -1,0 +1,33 @@
+#Get user input action
+print('''1. Add balance type                  2. Remove balance type
+3. Change how balances are viewed    4. Reset balances
+5. Reset app''')
+
+user_opt = input('\nEnter your option:')
+print(user_opt)
+
+switch(user_opt) {
+    case 1: print('case01')
+            break;
+    case 2: print('case02')
+            break;
+    case 3: print('case03')
+            break;
+    case 4: print('case04')
+            break;
+    case 5: print('case05')
+            break;
+    case 6: print('case06')
+            break;
+    default: print('default')
+            break;
+}
+
+
+
+
+#Display balance 
+#User settings
+
+
+
