@@ -15,7 +15,7 @@ We save money for various things including health expenses, educational expenses
 
 ##THE PROJECT##
 
-The idea behind this project is to display the single balance as a multiple balances each with a title.
+The idea behind this project is to display the single balance as multiple balances each with a meaningful title.
 
 The single balance is divided into, for instance, health savings, travel savings, education saving, and so on while the actual balance is still the total amount in the account.
 
