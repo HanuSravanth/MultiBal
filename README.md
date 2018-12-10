@@ -1,6 +1,6 @@
 # MultiBal
 
-## CURRENT SYSTEM
+### CURRENT SYSTEM
 
 We all have savings accounts at banks.
 
@@ -13,7 +13,7 @@ Currently, our banks display our balances as a single balance.
 We save money for various things including health expenses, educational expenses, personal expenses, travel expenses etc.
 
 
-## THE PROJECT
+### THE PROJECT
 
 The idea behind this project is to display the single balance as multiple balances each with a meaningful title.
 
@@ -22,11 +22,11 @@ The single balance is divided into, for instance, health savings, travel savings
 This can be implemented at 2 levels: 1.User application level
                                      2.Banks' infrastructure level                  
                                      
-## WHY THE PROJECT?
+### WHY THE PROJECT?
 
 This helps in proper planning and meaningfiul visualization of the saved money.
 
-## CHALLENGES
+### CHALLENGES
 
 Need to sort out a bunch of things like, when a customer withdraws amount, which account title will it be cut from?
 
